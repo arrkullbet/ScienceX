@@ -1,0 +1,25 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 279px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 107px;
+  min-height: 16px;
+  width: 107px;
+  min-width: 16px;
+  margin: 40px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  height: 63px;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  margin: 49px auto 41px;
+}
